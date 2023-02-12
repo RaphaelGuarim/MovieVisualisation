@@ -24,4 +24,8 @@ Language :      **Python**
 
 <br /> 
 
-<img height="250" align="left" src="https://github.com/RaphaelGuarim/MovieVisualisation/blob/main/llustrations/doc1.png" alt="Illustration" /> <img height="250" align="center" src="https://github.com/RaphaelGuarim/MovieVisualisation/blob/main/llustrations/doc2.png" alt="Illustration" style="display:none;"/>
+<img height="400" align="center" src="https://github.com/RaphaelGuarim/MovieVisualisation/blob/main/llustrations/doc1.png" alt="Illustration" /> 
+
+
+
+<img height="400" align="center" src="https://github.com/RaphaelGuarim/MovieVisualisation/blob/main/llustrations/doc2.png" alt="Illustration" style="display:none;"/>
